@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerardo Miguel Mejía Ramírez</h1>
+<h1 align="center">Hi 👨🏽‍💻, I'm Gerardo Miguel Mejía Ramírez</h1>
 <h3 align="center">A passionate backend developer from El Salvador</h3>
 
 <p>Computer Engineering third-year student, currently focused on backend development and architecture, IoT prototypes and data analysis. I am known for learning quickly and adapting to new technologies as they emerge. I love creating optimized, clean solutions. What I enjoy most is breaking things down so I can rebuild them and find different patterns to learn from, gain experience, and deliver the best results.</p>
