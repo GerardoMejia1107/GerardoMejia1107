@@ -3,7 +3,17 @@
 
 <p>Computer Engineering third-year student, currently focused on backend development and architecture, IoT prototypes and data analysis. I am known for learning quickly and adapting to new technologies as they emerge. I love creating optimized, clean solutions. What I enjoy most is breaking things down so I can rebuild them and find different patterns to learn from, gain experience, and deliver the best results.</p>
 
-<h4>If you are interested: </h4>
+<h3>Some achivements: </h3>
+<ul>
+  <li><strong>TOEIC Listening and Reading</strong>: Accreditation of the listening and reading skills of the English language. </li>
+  <li><strong>TOEIC Speaking and Writing</strong>: Accreditation of the speaking and writing skills of the English language.
+ </li>
+  <li><strong>MOS Excel (Microsoft Office Specialist)</strong>: Domain of knowledge, competences and skills, in the use of Microsoft Excel 2016. </li>
+  <li><strong>MTA (Introduction to Programming Using HTML and CSS)</strong>: Accreditation of the knowledge and competences in the use of HTML and CSS </li>
+  
+</ul>
+
+<h3>If you are interested: </h3>
 
 - 🔭 I’m currently working on [SmartRoom](https://github.com/GerardoMejia1107/SmartRoom)
 
@@ -12,6 +22,7 @@
 - 📫 How to reach me **miguelmr1107@gmail.com**
 
 - ⚡ Fun fact **I could be your Gymbro**
+- 🗃️ CV available on [Gerardo Mejía CV](https://www.canva.com/design/DAGbukJcR78/LxYdVxSICUJSkud2APj4IQ/view?utm_content=DAGbukJcR78&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4439b58388)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
